@@ -1,0 +1,11 @@
+{
+  "name": "howtocreateaserverusingnode",
+  "version": "1.0.0",
+  "description": "Create A New Server Using Node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Majid Fayaz",
+  "license": "ISC"
+}
